@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning : **Django, AJAX/API,MERN stack**
 
-- 👯 I’m looking to collaborate on  **Anything challenging which is focuses on python full-stack**
+- 👯 I’m looking to collaborate on  **Anything challenging which focuses on python full-stack**
 
 - 👨‍💻 All of my projects are available at : [https://github.com/akarelia20](https://github.com/akarelia20)
 
