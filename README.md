@@ -1,25 +1,22 @@
-<h1 align="center">Hi 👋, I'm Amee</h1>
-<h3 align="center">A passionate full-stack Developer from Bayarea (Sillicon Valley). I am currently enrolled in coding bootcamp.</h3>
+<h1 align="center"> Hi 👋, I'm Amee</h1>
+<h3 align="center">A beginner and passionate full-stack Developer from Bay Area (Sillicon Valley).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarelia20&label=Profile%20views&color=0e75b6&style=flat" alt="akarelia20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akarelia20" alt="akarelia20" /></a> </p>
 
 - 💁🏻‍♀️ My Name is **Amee Karelia**
 
-- 💬 About me **I am currently enrolled in coding bootcamp where I have completed Basic Web-fundamentals(with yellow-belt) and python stack (with Black-belt), and currently learning MERN stack. Along side I am building new projects and learning new tools and technologies.**
+- 💬 About me : **I am currently enrolled in coding bootcamp where I have completed Basic Web-fundamentals(with yellow-belt) and python stack (with Black-belt), and currently learning MERN stack. Along side I am building new projects and learning new tools and technologies.**
 
-- 🌱 I’m currently learning **Django, AJAX/API,MERN stack**
+- 🌱 I’m currently learning : **Django, AJAX/API,MERN stack**
 
-- 👯 I’m looking to collaborate on **Anything challenging which is focuses on python full-stack**
+- 👯 I’m looking to collaborate on  **Anything challenging which is focuses on python full-stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akarelia20](https://github.com/akarelia20)
+- 👨‍💻 All of my projects are available at : [https://github.com/akarelia20](https://github.com/akarelia20)
 
-- 🌟 You can find me on Codewars [https://www.codewars.com/users/akarelia20](https://www.codewars.com/users/akarelia20)
+- 🌟 You can find me on Codewars : [https://www.codewars.com/users/akarelia20](https://www.codewars.com/users/akarelia20)
 
-- 📫 How to reach me **amee.karelia16@gmail.com**
+- 📫 How to reach me : **amee.karelia16@gmail.com**
 
-- ⚡ Fun fact **I like travelling/hiking and spending time with family apart from coding.**
+- ⚡ Fun fact : **I like travelling/hiking and spending time with family apart from coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akarelia20&show_icons=true&locale=en" alt="akarelia20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akarelia20&" alt="akarelia20" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarelia20&label=Profile%20views&color=0e75b6&style=flat" alt="akarelia20" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akarelia20" alt="akarelia20" /></a> </p>
