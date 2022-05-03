@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Amee</h1>
+<h1 align="center"> Hi 👋, I'm Amee Karelia </h1>
 <h3 align="center">A Beginner full-stack Developer from Bay Area (Sillicon Valley).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarelia20&label=Profile%20views&color=0e75b6&style=flat" alt="akarelia20" /> </p>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me : **amee.karelia16@gmail.com**
 
-- ⚡ Fun fact : **I like travelling/hiking and spending time with family apart from coding.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
