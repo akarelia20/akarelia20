@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at : [https://github.com/akarelia20](https://github.com/akarelia20)
 
-- 🌟 You can find me on Codewars : [https://www.codewars.com/users/akarelia20](https://www.codewars.com/users/akarelia20)
+- 🌟 Codewars badge/status: <img src="https://www.codewars.com/users/akarelia20/badges/small">
 
 - 📫 How to reach me : **amee.karelia16@gmail.com**
 
