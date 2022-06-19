@@ -8,7 +8,7 @@
 
 - 💬 About me : **I am currently enrolled in coding bootcamp where I have completed Basic Web-fundamentals(with yellow-belt) and python stack (with Black-belt), and learning MERN stack. Along side I am building new projects and learning new tools and technologies.**
 
-- 🌱 I’m currently learning : **Django, AJAX/API,MERN stack**
+- 🌱 I’m currently learning : **Django, AJAX/API,MERN stack, data-structures and algorithms**
 
 - 👯 I’m looking to collaborate on  **Anything challenging which focuses on python full-stack**
 
