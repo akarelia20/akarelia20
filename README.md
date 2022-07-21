@@ -16,7 +16,6 @@
 
 - 🌟 Codewars badge/status: <img src="https://www.codewars.com/users/akarelia20/badges/micro">
 
-- 📫 How to reach me : **amee.karelia16@gmail.com**
 
 
 
