@@ -6,7 +6,7 @@
 
 - 💁🏻‍♀️ My Name is **Amee Karelia**
 
-- 💬 About me : **I am currently enrolled in coding bootcamp where I have completed Basic Web-fundamentals(with yellow-belt) and python stack (with Black-belt), and learning MERN stack. Along side I am building new projects and learning new tools and technologies.**
+- 💬 About me : **I am currently enrolled in coding bootcamp where I have completed Basic Web-fundamentals(with yellow-belt), python stack (with Black-belt), and MERN stack(Black-belt). Along side I am building new projects and learning new tools and technologies.**
 
 - 🌱 I’m currently learning : **Django, AJAX/API,MERN stack, data-structures and algorithms**
 
