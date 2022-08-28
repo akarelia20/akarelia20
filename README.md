@@ -6,11 +6,11 @@
 
 - 💁🏻‍♀️ My Name is **Amee Karelia**
 
-- 💬 About me : **I am currently enrolled in coding bootcamp where I have completed Basic Web-fundamentals(with yellow-belt), python stack (with Black-belt), and MERN stack(Black-belt). Along side I am building new projects and learning new tools and technologies.**
+- 💬 About me : **I am currently working as a Application Development Associate at Accenture**
 
-- 🌱 I’m currently learning : **Django, AJAX/API,MERN stack, data-structures and algorithms**
+- 🌱 I’m currently learning : **data-structures and algorithms**
 
-- 👯 I’m looking to collaborate on  **Anything challenging which focuses on python full-stack**
+- 👯 I’m looking to collaborate on  **Anything challenging which focuses on python and MERN full-stack**
 
 - 👨‍💻 All of my projects are available at : [https://github.com/akarelia20](https://github.com/akarelia20)
 
