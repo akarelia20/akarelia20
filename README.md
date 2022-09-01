@@ -14,7 +14,6 @@
 
 - 👨‍💻 All of my projects are available at : [https://github.com/akarelia20](https://github.com/akarelia20)
 
-- 🌟 Codewars badge/status: <img src="https://www.codewars.com/users/akarelia20/badges/micro">
 
 
 
