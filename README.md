@@ -6,9 +6,9 @@
 
 - 💁🏻‍♀️ My Name is **Amee Karelia**
 
-- 💬 About me : **I am currently working as a Application Development Associate at Accenture and learning concepts of AWS**
+- 💬 About me : **I am currently working as a Application Development Associate at Accenture.**
 
-- 🌱 I’m currently learning : **data-structures and algorithms**
+- 🌱 I’m currently learning : **learning concepts of AWS Infrastructure, and Agile methodologies in software development**
 
 - 👯 I’m looking to collaborate on  **Anything challenging which focuses on python and MERN full-stack**
 
