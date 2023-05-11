@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Amee Karelia </h1>
-<h3 align="center">Full-stack Engineer from Bay Area (Sillicon Valley).</h3>
+<h3 align="center">Full-stack Engineer from Bay Area.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarelia20&label=Profile%20views&color=0e75b6&style=flat" alt="akarelia20" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 💬 About me : **I am currently working as a Application Development Associate at Accenture.**
 
-- 🌱 I’m currently learning : **learning concepts of AWS Infrastructure, and Agile methodologies in software development**
+- 🌱 I’m currently learning : **learning concepts of AWS Infrastructure, Terraform and Agile methodologies in software development**
 
 - 👯 I’m looking to collaborate on  **Anything challenging which focuses on python and MERN full-stack**
 
