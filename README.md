@@ -6,11 +6,11 @@
 
 - 💁🏻‍♀️ My Name is **Amee Karelia**
 
-- 💬 About me : **I am currently working as a Application Development Associate at Accenture.**
+- 💬 About me : **I am currently working as a Software Engineer at Accenture.**
 
 - 🌱 I’m currently learning : **learning concepts of AWS Infrastructure, Terraform and Agile methodologies in software development**
 
-- 👯 I’m looking to collaborate on  **Anything challenging which focuses on python and MERN full-stack**
+- 👯 I’m looking to collaborate on  **Anything AI related**
 
 - 👨‍💻 All of my projects are available at : [https://github.com/akarelia20](https://github.com/akarelia20)
 
